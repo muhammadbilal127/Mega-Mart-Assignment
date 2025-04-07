@@ -1,0 +1,99 @@
+
+.parent{
+    background-color: #eaedee;
+}
+
+
+image {
+    background-color: white;
+}
+
+.lis-item a{
+
+    color: white;
+}
+
+.list-item{
+    background-color:#2f8cd4;
+}
+
+.product-search{
+background-color: #f7bb62;
+}
+
+.product-search input{
+    border: 1px solid orange;
+}
+
+.submit{
+    background-color: orange;
+    border: solid 1px #b48640;
+    color: white;
+}
+
+.border-green thead{
+ background-color: green;
+ color: white;
+}
+
+.border-green{
+    border: 1px solid green;
+}
+
+.center{
+    text-align: center;
+     margin-left: 300px;
+     margin-top: 200px;
+     background-color: green;
+     color: white;
+     width: 700px;
+}
+.button{
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+}
+
+.first legend{
+    border: 1px solid purple;
+    background-color:#985ab0;
+    color: white;
+}
+
+
+.first{
+    border: 1px solid purple;
+}
+
+.clear-form{
+    background-color: purple;
+    border: 1px solid #985ab0;
+}
+
+.table-two tfoot{
+    background-color: #dd9994;
+}
+
+.table-two thead{
+   
+    background-color: #ff7167;
+}
+
+
+.table-two {
+   
+    border: 1px solid #dd9994;
+}
+
+.second{
+    border: 1px solid #273544;
+}
+
+.contact {
+    background-color: #273544;
+    color: white;
+}
+
+a{
+    color: white;
+}
